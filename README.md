@@ -51,7 +51,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANKITROYCHOWDHURY54&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github.com/github/explore/raw/main/topics/github/github.png"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=ANKITROYCHOWDHURY54&theme=tokyonight" height="160"/>
 </p>
 
