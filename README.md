@@ -49,26 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ANKITROYCHOWDHURY54&show_icons=true&count_private=true&theme=tokyonight"
-    alt="Ankit Roy Chowdhury GitHub Stats"
-    height="165"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITROYCHOWDHURY54&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
-
----
-
 ## 🎯 Learning Goals (2025)
 - ✔ Crack **Software Developer Placements**
 - ✔ Master **DSA Patterns**
